@@ -1,5 +1,4 @@
 # j-note
-<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -23,6 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-my graduation project
->>>>>>> 4b9ef724e18f3b26a906c2a46d638d42498dc712
